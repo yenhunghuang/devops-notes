@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-04-09.md",
+                "file": "Topics/Git-Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-09"
+              "title": "Git-Basics"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2025-04-09.md",
+                "file": "Topics/Git-Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-04-09"
+              "title": "Backlinks for Git-Basics"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2025-04-09.md",
+                "file": "Topics/Git-Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-04-09"
+              "title": "Outgoing links from Git-Basics"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-04-09.md",
+                "file": "Topics/Git-Basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-09"
+              "title": "Outline of Git-Basics"
             }
           }
         ]
@@ -171,15 +171,19 @@
   },
   "active": "b23994e793bddb0d",
   "lastOpenFiles": [
+    "Topics/Linux-Commands.md",
+    "Topics/Kubernetes-Deployment.md",
+    "Topics/Jenkins-Intro.md",
+    "Daily/2025-04-02.md",
+    "Daily/2025-04-01.md",
+    "Daily/2025-04-09.md",
+    "Untitled.md",
     "Daily/2025-04-10.md",
     "Daily/2025-04-08.md",
-    "Daily/2025-04-09.md",
     "Daily/2025-04-06.md",
     "Daily/2025-04-05.md",
     "Daily/2025-04-04 (1).md",
     "Daily/2025-04-03 (1).md",
-    "Daily/2025-04-02.md",
-    "Daily/2025-04-01.md",
     "Daily/2025-04-04.md",
     "2025-04-04.md",
     "Daily/2025-04-03.md"
