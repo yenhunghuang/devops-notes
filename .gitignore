@@ -1,4 +1,16 @@
+# Obsidian 工作區文件
 .obsidian/workspace
 .obsidian/workspace.json
+
+# macOS 系統文件
+.DS_Store
+**/.DS_Store
+
+# Obsidian 其他可能需要忽略的文件
 .trash/
-.DS_Store 
+.obsidian/cache/
+.obsidian/plugins/
+
+# 其他臨時文件
+*.tmp
+*.temp 
