@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-04-29.md",
+                "file": "Daily/2025-04-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-29"
+              "title": "2025-04-30"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "b23994e793bddb0d",
   "lastOpenFiles": [
-    "Daily/2025-04-28.md",
     "Daily/2025-04-29.md",
+    "Daily/2025-04-30.md",
+    "Daily/2025-04-28.md",
     "Daily/2025-04-27.md",
     "Daily/2025-04-26.md",
     "Daily/2025-04-24.md",
@@ -207,7 +208,6 @@
     "Topics/Git-Basics.md",
     "Topics/Jenkins-Intro.md",
     "Topics/Kubernetes-Deployment.md",
-    "Topics/Linux-Commands.md",
-    "Daily/2025-04-09.md"
+    "Topics/Linux-Commands.md"
   ]
 }
