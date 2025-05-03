@@ -180,11 +180,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b23994e793bddb0d",
+  "active": "59ac9269bf0dbef5",
   "lastOpenFiles": [
+    "Daily/2025-05-01.md",
+    "未命名.md",
     "Daily/2025-04-30.md",
     "Daily/2025-04-29.md",
-    "Daily/2025-05-01.md",
     "Daily/2025-04-28.md",
     "Daily/2025-04-27.md",
     "Daily/2025-04-26.md",
@@ -207,7 +208,6 @@
     "Daily/2024-03-19.md",
     "Daily/2025-04-10.md",
     "Topics/Git-Basics.md",
-    "Topics/Jenkins-Intro.md",
-    "Topics/Kubernetes-Deployment.md"
+    "Topics/Jenkins-Intro.md"
   ]
 }
