@@ -3,5 +3,8 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "smart-connections",
-  "cursor-bridge"
+  "cursor-bridge",
+  "templater-obsidian",
+  "quickadd",
+  "smart-second-brain"
 ]
