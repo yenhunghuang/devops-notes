@@ -198,18 +198,16 @@
       "command-palette:開啟命令面板": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "cursor-bridge:Open in Cursor": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "cursor-bridge:Open in Cursor": false
     }
   },
   "active": "b23994e793bddb0d",
   "lastOpenFiles": [
+    "Daily/2025-05-04.md",
     "Daily/2025-04-02.md",
     "Daily/2025-04-26.md",
     "Topics/Jenkins-Intro.md",
     "Topics/Git-Basics.md",
-    "Daily/2025-05-04.md",
     "Daily/2025-05-01.md",
     "Daily/2025-04-24.md",
     "Daily/2025-04-28.md",
