@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-05-04.md",
+                "file": "Daily/2025-05-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-04"
+              "title": "2025-05-01"
             }
           }
         ]
@@ -94,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "websocket-vs-mq.md",
-                "collapseAll": false,
+                "file": "Daily/2025-05-01.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for websocket-vs-mq"
+              "title": "2025-05-01 的反向連結"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "websocket-vs-mq.md",
+                "file": "Daily/2025-05-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from websocket-vs-mq"
+              "title": "2025-05-01 的對外連結"
             }
           },
           {
@@ -133,7 +133,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "標籤"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "websocket-vs-mq.md",
+                "file": "Daily/2025-05-01.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of websocket-vs-mq"
+              "title": "2025-05-01 的大綱"
             }
           },
           {
@@ -157,12 +157,32 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
+            }
+          },
+          {
+            "id": "8f10ff2b2b9d5470",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
+          },
+          {
+            "id": "c508f76ea7b4335c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -177,23 +197,25 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b23994e793bddb0d",
+  "active": "c508f76ea7b4335c",
   "lastOpenFiles": [
+    "Daily/2025-04-24.md",
     "Daily/2025-04-28.md",
     "Daily/2025-05-03.md",
     "Daily/2025-05-01.md",
-    "Daily/2025-04-30.md",
     "Daily/2025-04-29.md",
     "Daily/2025-05-04.md",
+    "Daily/2025-04-30.md",
     "Daily/DevOps_Day20_GitOps_ArgoCD.md",
     "未命名.md",
     "Daily/DevOps_Bootcamp_Day19.md",
     "Daily/2025-04-27.md",
     "Daily/2025-04-26.md",
-    "Daily/2025-04-24.md",
     "Daily/2025-04-25.md",
     "Daily/2025-04-02.md",
     "Daily/2025-04-01.md",
