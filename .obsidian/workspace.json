@@ -177,8 +177,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
             }
           }
         ],
@@ -200,9 +200,7 @@
       "command-palette:開啟命令面板": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "cursor-bridge:Open in Cursor": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "cursor-bridge:Open in Cursor": false
     }
   },
   "active": "b23994e793bddb0d",
