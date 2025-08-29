@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "關聯圖檢視"
             }
+          },
+          {
+            "id": "819295e3c6c18370",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +176,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
+              "icon": "lucide-ghost",
+              "title": "smart-chat-view"
             }
           },
           {
@@ -186,6 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:建立新的 base": false,
       "templater-obsidian:Templater": false,
       "smart-second-brain:打开 S2B 聊天": false,
       "switcher:開啟快速切換": false,
@@ -201,7 +215,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b23994e793bddb0d",
+  "active": "819295e3c6c18370",
   "lastOpenFiles": [
     "Daily/2025-04-09.md",
     "Daily/2025-04-03 (1).md",
