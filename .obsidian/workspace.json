@@ -28,9 +28,33 @@
               "icon": "lucide-book-up",
               "title": "發行記錄 1.9.12"
             }
+          },
+          {
+            "id": "450ea6fe29b34e6d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.10.3"
+            }
+          },
+          {
+            "id": "a38ca7844837d8cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.11.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,7 +239,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "819295e3c6c18370",
+  "active": "a38ca7844837d8cf",
   "lastOpenFiles": [
     "Daily/2025-04-09.md",
     "Daily/2025-04-03 (1).md",
